@@ -1,4 +1,4 @@
-# Documentação dos Arquivos
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Luan16p/Lista-de-tarefas?style=for-the-badge)
 ## Interf.py
 
 O arquivo "Interf.py" é um programa em Python que cria uma interface gráfica para um gerenciador de tarefas, utilizando a biblioteca Tkinter. A interface permite que o usuário adicione, remova e atualize tarefas em uma lista.
